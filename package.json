@@ -1,7 +1,7 @@
 {
   "name": "n8n-nodes-anywherenow",
   "version": "0.1.0",
-  "description": "",
+  "description": "n8n node for AnywhgereNow's dashboard service API",
   "license": "MIT",
   "homepage": "",
   "keywords": ["n8n-community-node-package"],
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/Denisf88/n8n-nodes-anywherenow.git"
   },
   "scripts": {
     "build": "n8n-node build",
