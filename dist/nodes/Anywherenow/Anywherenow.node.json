@@ -1,0 +1,18 @@
+{
+    "node": "n8n-nodes-anywherenow",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": ["Development", "Developer Tools"],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://golive.anywhere.now/api/core/core_rest_api.html"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://golive.anywhere.now/api/core/core_rest_api.html"
+            }
+        ]
+    }
+}
